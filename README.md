@@ -1,5 +1,6 @@
 # image2PDF
 image2PDF is an Android app that allows users to upload up to 10 images and sort them according to their preference. Once they're satisfied with the order of the images, they can click the export button to consolidate the images into one PDF file in the specified order.
+![alt text](https://github.com/gcmaidana/image2PDF/blob/master/screenshots/vector.png)
 
 I created this app to solve a problem I faced during the height of the pandemic. When classes were held online, some professors required homework assignments to be turned in as PDFs to ensure uniformity. For classes like mathematics, the homework assignments tended to span several sheets of paper because I had to show my work for long and complicated problems. 
 I didn’t have a scanner at home to scan my homework, so I used my phone to take pictures of my sheets of paper for a problem set. There weren’t many apps that allowed me to order the images and export as one PDF file on the Google Play store. There were some that allowed an image to be exported to PDF, but I had to consolidate all my pages of homework in the correct order into a single PDF file.
@@ -12,7 +13,10 @@ The only difference between the release version and the code provided here is th
 
 
 
-This app was made in Android Studio using Java, XML and AdMob. If you have any questions, feel free to contact me. Below you will find some app screenshots. 
+This app was made in Android Studio using Java, XML and AdMob. The app logo was also made by me in Adobe Illustrator. If you have any questions, feel free to contact me. Below you will find some app screenshots.
+
+# Logo
+![alt text](https://github.com/gcmaidana/image2PDF/blob/master/screenshots/pdf%20logo.png)
 
 # Landing page
 ![alt text](https://github.com/gcmaidana/image2PDF/blob/master/screenshots/landingpage.jpg)
